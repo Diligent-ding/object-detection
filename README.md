@@ -1,2 +1,2 @@
 # object-detection
-yolo very good
+centernet very good
